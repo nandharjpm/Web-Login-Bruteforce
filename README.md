@@ -31,9 +31,6 @@ Ensure you have Python 3.x installed. You can download it from [python.org](http
 Prepare a list of usernames in a file named "uname.txt" and passwords in a file named "paswd.txt".
 Customize the headers and cookies in the script (if needed) for your specific testing scenario.
 
-Run the script:
-
-python3 bruteforce.py
 
 Configuration:
 
