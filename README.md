@@ -13,7 +13,7 @@ Ensure you have Python 3.x installed. You can download it from [python.org](http
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ethical-brute-forcer.git
+   git clone https://github.com/nandharjpm/Web-Login-Bruteforce.git
    ```
 ### Install dependencies:
 ```bash
@@ -27,7 +27,7 @@ Customize the headers and cookies in the script (if needed) for your specific te
 
 Run the script:
 
-python Web-Login-Bruteforce.py
+python3 bruteforce.py
 
 Configuration:
 
