@@ -15,12 +15,18 @@ Ensure you have Python 3.x installed. You can download it from [python.org](http
    ```bash
    git clone https://github.com/nandharjpm/Web-Login-Bruteforce.git
    ```
-### Install dependencies:
-```bash
-  pip install requests
-```
-
+2. Install dependencies:
+   ```bash
+   pip install requests
+   ```
+3. File Permission:
+   ```bash
+   chmod +x bruteforce.py
+   ```
 ### Usage
+   ```bash
+   ./bruteforce.py -u http://demo.testfire.net/doLogin -U uname.txt -P paswd.txt
+   ```
 
 Prepare a list of usernames in a file named "uname.txt" and passwords in a file named "paswd.txt".
 Customize the headers and cookies in the script (if needed) for your specific testing scenario.
