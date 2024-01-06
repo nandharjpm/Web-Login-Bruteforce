@@ -1,0 +1,7 @@
+admin
+root
+administrator
+webadmin
+guest
+test
+web
